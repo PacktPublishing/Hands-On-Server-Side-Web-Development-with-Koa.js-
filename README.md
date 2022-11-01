@@ -64,7 +64,3 @@ NodeJS: https://nodejs.org/en/
 ## Related Products
 * [Server Side development with Node.js and Koa.js Quick Start Guide](https://www.packtpub.com/in/application-development/server-side-development-nodejs-and-koajs-quick-start-guide)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838828752">https://packt.link/free-ebook/9781838828752 </a> </p>
